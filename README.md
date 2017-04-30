@@ -1,8 +1,5 @@
 ## CMDER ##
 
-</br><kbd>CTRL</kbd>+<kbd>`</kbd></kbd> Global Summon from taskbar
-
-
 | Atalho | Ação |
 | --- | --- |
 | </br><kbd>CTRL</kbd>+<kbd>`</kbd></kbd> | Global Summon from taskbar |
